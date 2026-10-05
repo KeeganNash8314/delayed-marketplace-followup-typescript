@@ -1,0 +1,1 @@
+{"type":"module","scripts":{"test":"node --experimental-strip-types src/marketplace_followup.test.ts","start":"node --experimental-strip-types src/marketplace_followup.ts"},"dependencies":{"zod":"^3.23.8"}}
